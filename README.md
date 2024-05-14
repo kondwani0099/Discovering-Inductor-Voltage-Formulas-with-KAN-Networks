@@ -11,7 +11,7 @@ In this project, we utilize KANs to discover formulas for induced voltage in RL 
 ## Getting Started
 To get started with this project, follow these steps:
 1. Clone this repository to your local machine.
-2. Navigate to the notebook `inductor_voltage_formula.ipynb`.
+2. Navigate to the notebook `KAN_For_Electrical_Inductor.ipynb`.
 3. Run the notebook using Google Colab or your preferred Python environment.
 
 ## Data
